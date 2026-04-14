@@ -168,4 +168,4 @@ This library serves as foundation for:
 
 ---
 
-For more information about 42 School, visit [42school.com](https://www.42school.com/).
+For more information about 42 School, visit [42school.com](https://42.fr/en/homepage/).
